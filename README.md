@@ -1,3 +1,4 @@
+* [Referência de Github](https://github.com/DaniloOP1381521/20200915-MSL-CSHARP-WORK-WITH-DATA)<br>
 # Como Utilizar Os Dados em CSharp - Parte 1
 
 ## Vamos Mergulhar em Dados e Tipos, Como Manipular Strings e Dados Numéricos.
@@ -87,4 +88,3 @@ Console.WriteLine($"decimal: {decimal.MinValue} to {decimal.MaxValue} (with 28-2
 
 #### Referências :
 [Docs Microsoft](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
-[Github](https://github.com/DaniloOP1381521/20200915-MSL-CSHARP-WORK-WITH-DATA)
